@@ -3,7 +3,7 @@
 
 The Student Records Management System is a simple web application built using PHP and JSON file storage. It allows you to manage student records, including adding new students, updating their information, and deleting records.
 
-https://github.com/lexiscode/students_form-app/assets/42210784/1db2845a-de60-4fef-a685-88af914ad5e8
+https://github.com/lexiscode/students_form-app/assets/42210784/57856a50-36a1-4f67-854c-738dfff03172
 
 ## Features
 
