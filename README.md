@@ -17,8 +17,7 @@ https://github.com/lexiscode/students_form-app/assets/42210784/57856a50-36a1-4f6
 1. Clone the repository via HTTPS or SSH.
 2. Make sure you have PHP installed on your system.
 3. Start the PHP built-in server in the directory - cloned repository: `php -S localhost:8800 -t .`.
-4. Open the application in your browser: [http://localhost:8800/index.php](http://localhost:8800/index.php).
-5. Make sure you have an internet connection as the styling and responsiveness of the page depends on a CDN: Content Delivery Network.
+4. Make sure you have an internet connection as the styling and responsiveness of the page depends on a CDN: Content Delivery Network.
 
 ## Usage
 
